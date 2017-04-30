@@ -14,10 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Tiffany White Software Engineer
+title: Tiffany White Software Developer
 email: hey@tiffanyrwhite.com
 description:
-baseurl: "/resume"
+# baseurl:
 url: "https://tiffanywhite.netlify.com"
 author:
   name: Tiffany White
@@ -35,8 +35,8 @@ gems:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-feed:
-  path: atom.xml
+# feed:
+  # path: atom.xml
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 10
