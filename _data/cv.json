@@ -6,7 +6,7 @@
     "email": "hey@tiffanyrwhite.com",
     "phone": "(412) 342-8391",
     "website": "https://tiffanywhite.tech",
-    "summary": "I am a self-taught developer and a previous Computer Science major at the University of Pittsburgh. I am currently working with front and backend technologies like Java, JavaScript, Node, React, and Express. Currently looking for junior positions in the Pittsburgh area. Feel free to contact me. Look forward to working with you.",
+    "summary": "I am a self-taught developer and a previous Computer Science major at the University of Pittsburgh. I am currently working with front and backend technologies like Java, JavaScript, Node, React, and Express. Currently looking for junior positions in the Pittsburgh area. You can find my current projects at GitHub and CodePen. Feel free to contact me. Look forward to working with you.",
     "location": {
       "address": "",
       "postalCode": "15110",
@@ -37,8 +37,6 @@
       }
     ]
   },
-  "work": [],
-  "volunteer": [],
   "education": [
     {
       "institution": "University of Pittsburgh",
@@ -55,8 +53,34 @@
       ]
     }
   ],
-  "awards": [],
-  "publications": [],
+  "project": [
+    {
+      "Check Yo Self": "Markdown Blog Post Checker",
+      "url": "https://github.com/twhite96/checkyoself",
+      "startDate": "2017-04-10",
+      "endDate": "WIP",
+      "technology used": [
+        "write-good JavaScript library",
+        "Material Design Lite",
+        "natural Node natural language processing library",
+        "Postgres"
+      ]
+    }
+  ],
+  "project2": [
+    {
+      "Random Quote Generator": "Random Quote Generator built for Free Code Camp",
+      "url": "https://github.com/twhite96/RandQuoteGen",
+      "startDate": "2016-04-10",
+      "endDate": "2016-07-31",
+      "technology used": [
+        "Quotes on Design API v4",
+        "Bootstrap",
+        "jQuery/JavaScript",
+        "AJAX Request API"
+      ]
+    }
+  ],
   "skills": [
     {
       "name": "Full-Stack Web Development",
@@ -71,8 +95,6 @@
       ]
     }
   ],
-  "languages": [],
-  "interests": [],
   "references": [
     {
       "name": "",

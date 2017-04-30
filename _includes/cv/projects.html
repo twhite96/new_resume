@@ -1,11 +1,11 @@
-{% if cv.publications %}
+{% if cv.projects %}
   <div id="publications" class="entry">
     <header class="entry-header">
-      <h3 class="entry-title">Publications</h3>
+      <h3 class="entry-title">Projects</h3>
     </header>
 
     <div class="entry-content">
-      {% for p in cv.publications %}
+      {% for p in cv.projects %}
         {% if p.name %}
           <h4 class="title">
             {% if p.website %}

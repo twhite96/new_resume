@@ -6,15 +6,14 @@ layout: default
 
 <main id="main" class="page-content" aria-label="Content">
   <div class="inner">
-    <div class="entry-wrap">
+    <article class="entry-wrap">
       <div class="entry-content">
         {{ content }}
       </div>
-      <aside class="entry-sidebar">
-        {% include author %}
-        <img class="author-picture" src="{{ author_picture }}" alt="{{ author_name }}">
-      </aside>
-    </div>
+      {% if site.disqus.shortname %}
+        {% include disqus_comments.html %}
+      {% endif %}
+    </article>
 
     {% include footer.html %}
   </div>
