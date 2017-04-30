@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: My Awesome Site
+title: "Tiffany White | Software Developer"
 email:
 description:
 baseurl: # the optional subpath of your site, e.g. "/blog"
@@ -23,8 +23,8 @@ author:
   name:
   twitter:
   picture:
-twitter_username:
-github_username:
+twitter_username: "TiffanyW_412"
+github_username: "twhite96"
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 
 # Build settings
@@ -74,4 +74,4 @@ defaults:
       type: posts
     values:
       layout: post
-      read_time: true
+      read_time: false
