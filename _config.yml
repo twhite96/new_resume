@@ -70,8 +70,8 @@ exclude:
 defaults:
   # _posts
   - scope:
-      path: "_site"
+      path: "_posts"
       type: pages
     values:
-      layout: pages
+      layout: cv
       read_time: true
