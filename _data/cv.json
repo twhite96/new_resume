@@ -1,0 +1,82 @@
+{
+  "basics": {
+    "name": "Tiffany White",
+    "label": "Software Developer",
+    "picture": "",
+    "email": "hey@tiffanyrwhite.com",
+    "phone": "(412) 342-8391",
+    "website": "https://tiffanywhite.tech",
+    "summary": "I am a self-taught developer and a previous Computer Science major at the University of Pittsburgh. I am currently working with front and backend technologies like Java, JavaScript, Node, React, and Express. Currently looking for junior positions in the Pittsburgh area. Feel free to contact me. Look forward to working with you.",
+    "location": {
+      "address": "",
+      "postalCode": "15110",
+      "city": "Duquesne",
+      "countryCode": "US",
+      "region": "PA"
+    },
+    "profiles": [
+      {
+        "network": "Twitter",
+        "username": "TiffanyW_412",
+        "url": "https://twitter.com/TiffanyW_412"
+      },
+      {
+        "network": "GitHub",
+        "username": "twhite96",
+        "url": "https://github.com/twhite96"
+      },
+      {
+        "network": "CodePen",
+        "username": "twhite96",
+        "url": "https://codepen.io/twhite96"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "tiffanyrwhite",
+        "url": "https://www.linkedin.com/in/tiffanyrwhite"
+      }
+    ]
+  },
+  "work": [],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "University of Pittsburgh",
+      "area": "Computer Science",
+      "studyType": "BSc.",
+      "startDate": "2015-08-30",
+      "endDate": "2018-01-01",
+      "gpa": "",
+      "courses": [
+        "CS007 - Intro to Computer Science in Java",
+        "CS0401 - Intermediate Programming in Java",
+        "CS0134 Intro to Web Development",
+        "CS0334 Intermediate Web Development"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Full-Stack Web Development",
+      "level": "Junior",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "SQL",
+        "PHP",
+        "Node"
+      ]
+    }
+  ],
+  "languages": [],
+  "interests": [],
+  "references": [
+    {
+      "name": "",
+      "reference": "References available upon request."
+    }
+  ]
+}
