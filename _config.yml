@@ -14,17 +14,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: "Tiffany White | Software Developer"
-email:
+title: Tiffany White Software Engineer
+email: hey@tiffanyrwhite.com
 description:
-baseurl: # the optional subpath of your site, e.g. "/blog"
-url: # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "/resume"
+url: "https://tiffanywhite.netlify.com"
 author:
-  name:
+  name: Tiffany White
   twitter:
   picture:
-twitter_username: "TiffanyW_412"
-github_username: "twhite96"
+twitter_username:
+github_username:
 logo: # path of site logo, e.g. "/assets/images/logo.png"
 
 # Build settings
@@ -70,8 +70,8 @@ exclude:
 defaults:
   # _posts
   - scope:
-      path: "_posts"
-      type: posts
+      path: "_site"
+      type: pages
     values:
-      layout: post
-      read_time: false
+      layout: pages
+      read_time: true
